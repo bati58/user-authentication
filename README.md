@@ -1,1 +1,1 @@
-![user-authentication](img/user-login.png)
+![user-authentication](user-login.png)
